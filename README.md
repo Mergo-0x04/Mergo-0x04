@@ -23,14 +23,14 @@
 
 ---
 
-## 🛡️ Tecnologias de Segurança
+## 🛡️ Tecnologias de Cybersegurança que uso:
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali_Linux_2.0_wordmark.svg" width="100" alt="Kali Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Metasploit_logo.png" width="80" alt="Metasploit"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nmap_logo.svg" width="80" alt="Nmap"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Burp_Suite_Logo.png" width="80" alt="Burp Suite"/>
-</div>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40">
+  <img src="https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-5F4BB6?style=for-the-badge" alt="Metasploit" />
+</p>
 
 ---
 
