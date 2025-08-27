@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Mergo 👋</h1>
+<h1 align="center">Olá, eu sou o Marcus 👋</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mergo-0x04&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
